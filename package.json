@@ -1,0 +1,20 @@
+{
+  "name": "ambil-data",
+  "version": "1.0.0",
+  "description": "ambil data dari website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "tugas"
+  ],
+  "author": "saipul",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.7.6",
+    "request": "^2.88.0"
+  }
+}
